@@ -1,0 +1,4 @@
+#Tue Jun 12 17:18:04 PDT 2018
+base.0=C\:\\Users\\dstri\\Documents\\BCIT\\201820\\COMP 3617\\code\\COMP3617Midterm\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jun 10 20:35:54 PDT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\dstri\\Documents\\BCIT\\201820\\COMP 3617\\code\\COMP3617Midterm\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
