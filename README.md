@@ -16,8 +16,12 @@ To use this example, do the following:
 
 3. Under `drawer_content.xml`, change the title of each item to match the action.
 
+    ![drawer_content.xml](pictures/Capture2.PNG)
+
     a) You will also need to add these strings to `strings.xml`.
 
 4. If you wish to keep the drawer header, you can change the email text.
+
+    ![strings.xml](pictures/Capture3.PNG)
 
     a) You will need to change this in `strings.xml`.
