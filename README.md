@@ -2,6 +2,9 @@
 
 ## Navigation Drawer
 
+To make a navigation drawer activity from scratch, follow this tutorial:
+[Navigation Drawer Activity Tutorial](https://www.youtube.com/watch?v=urRzcA0vwDU)
+
 To use this example, do the following:
 
 1. Clone/Download this project
